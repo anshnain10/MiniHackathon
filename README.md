@@ -1,4 +1,5 @@
-# AI Journalist 3.5 
+# AI Journalist 
+
 
 ## Objective
 You are building an *AI Journalist* — an intelligent agentic system that reads, reasons, and verifies information from large news datasets.
